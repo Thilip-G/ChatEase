@@ -1,0 +1,11 @@
+.chat-bg{
+  background-image: url("../src/assets/bg-2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 80vh;
+  max-height: 100vh;      
+}
+
+.bg-text{
+  background-color:#d3f0c4
+}
